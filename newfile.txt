@@ -1,1 +1,2 @@
 Welcome Github
+I hope you enjoy mastering Git and Github
